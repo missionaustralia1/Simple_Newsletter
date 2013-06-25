@@ -1,4 +1,4 @@
-Simple_Newsletter
-=================
+UserAuthenticationServiceMission
+================================
 
-Simple Newsletter without full authentication
+UserAuthenticationServiceMission
